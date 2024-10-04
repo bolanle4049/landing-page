@@ -1,0 +1,32 @@
+main{
+    background-color: rgb(241, 236, 236);
+    /* height: 150px;  */
+    width: 400px;
+    padding: 6px;
+    margin: auto;
+    border-radius: 10px;
+}
+img{
+    object-fit: cover;
+    display: block;
+    width: 100%;
+    border-radius: 8px;
+}
+h3{
+    font-size: 20px;
+
+}
+button{
+    width: 80%;
+    padding: 14px;
+    border-radius: 50px;
+    color: rgb(198, 207, 207);
+    background-color: rgb(81, 79, 76);
+}
+body{
+    background-image: url(../landing-page/image1/jollof.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.5);
+}
